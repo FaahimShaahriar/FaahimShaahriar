@@ -1,16 +1,23 @@
-### Hi there 👋
+# Hi there! 👋
 
-<!--
-**FaahimShaahriar/FaahimShaahriar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Shahriar Hannan, a passionate Data Scientist and MERN (MongoDB, Express.js, React, Node.js) Developer on a mission to leverage data and create seamless web experiences.
 
-Here are some ideas to get you started:
+## 🚀 Data Science
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📊 I explore data, unravel insights, and build intelligent systems.
+- 💻 My tech stack includes Python, TensorFlow, PyTorch, and scikit-learn.
+- 🌱 I'm committed to continuous learning and innovation in the data science space.
+
+## 💻 MERN Development
+
+- 🚀 Crafting dynamic web applications using MongoDB, Express.js, React, and Node.js.
+- 🛠️ Tech Stack: MongoDB, Express.js, React, Node.js.
+- 🔧 I enjoy building responsive and user-friendly applications that make a difference.
+
+## 🌐 Let's Connect!
+
+- 📫 Reach out to me if you have questions, ideas, or just want to chat about tech.
+- 👨‍💻 Check out my projects below to see my work in action.
+- 🌟 Excited to code the future together!
+
+Thanks for stopping by! 🌈
